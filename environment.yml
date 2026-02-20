@@ -1,15 +1,10 @@
-name: scrapecf
+name: cf_analysis
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
-  - pytesseract=0.3.13
-  - opencv=4.10.0
-  - pillow=11.0.0
-  - scikit-image=0.24.0
   - pandas=2.2.3
-  - matplotlib=
   - requests
   - bs4
   - pip
